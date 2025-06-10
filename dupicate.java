@@ -1,4 +1,4 @@
-package Project;
+package project;
 import java.util.Arrays;
 public class dupicate {
 	    public static void main(String[] args) {
@@ -16,5 +16,4 @@ public class dupicate {
 	            System.out.print(nums[k] + " ");
 	        }
 	    }
-	    
 }
